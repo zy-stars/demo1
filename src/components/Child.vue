@@ -13,7 +13,7 @@
         props:['message'],
         data(){
             return {
-                msg:"哈哈哈"
+                msg:"哈哈"
             }
         },
         methods: {
